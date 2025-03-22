@@ -13,7 +13,7 @@ A FastAPI-based API that helps automate the process of screening resumes by matc
 
 ## Live Demo
 
-You can test this API through our web interface at: [Resume Screening Tool](https://www.yzemzgui.com/resume-screening)
+You can test a more advanced version of the resume screening API here: [Resume Screening Tool](https://www.yzemzgui.com/resume-screening)
 
 ## Prerequisites
 
